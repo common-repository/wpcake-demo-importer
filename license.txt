@@ -1,0 +1,5 @@
+WPCake Demo Importer plugin is GPLv2 and developed with the help of:
+'DI Multipurpose Demo Importer' plugin, (C) 2019 dithemes, GPLv2
+'Ocean Extra' plugin, (C) 2019 oceanwp, GPLv2
+
+WPCake Demo Importer plugin license: http://www.gnu.org/licenses/gpl-2.0.html
